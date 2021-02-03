@@ -1,7 +1,7 @@
-title: Nick Nielsen Tech Writer Portfolio
-description: This is my technical writing site.
+title: Nick Nielsen, Tech Writer Portfolio
 navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
+description: This is my technical writing site.
 theme: jekyll-theme-cayman
