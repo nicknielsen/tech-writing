@@ -1,3 +1,6 @@
 title: Nick Nielsen's Technical Writing Portfolio
-description: Check out my tech writing portfolio, made with Markdown!
+logo: /profile-pic-2020-min.jpg
+description: Hi, I'm Nick. This is my technical writing portfolio. Check it out!
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-minimal
