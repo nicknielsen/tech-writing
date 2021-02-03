@@ -1,6 +1,3 @@
-# tech-writing
-This repository is for all my technical writing portfolio items.
-
 # Here is a H1 heading in Markdown.
 ## Here is a H2 heading in Markdown.
 ### Here is a H3 heading in Markdown.
@@ -12,4 +9,8 @@ Here is a paragraph. It contains the most detailed content. After a line break, 
 
 I'm Nick Nielsen, and I am a writer and editor currently working in marketing. I'm learning Markdown to expand my skillset and become a more capable technical writer. I graduated from *the* University of Texas at Austin with a bachelor's degree in Rhetoric and Writing. With no technical background, I've got my work cut out for me—but that's part of the fun of it!
 
-![this is a picture of my face](/profile pic 2020-min.jpg)
+![this is a picture of my face](/profile-pic.jpg)
+
+- [ ] Kiss Kate
+- [ ] Kiss Olive
+- [ ] Learn Markdown
